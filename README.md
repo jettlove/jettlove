@@ -41,17 +41,14 @@
 
 ---
 
-### 📕 Latest Blog Posts (ENG)
+### 📕 Latest Articles 🇺🇸
 
-<!-- BLOG-POST-LIST:START -->
 - [React Application Architecture: Components [Part 1]](https://hackernoon.com/react-application-architecture-components-part-1-1w1l340n)
 - [React Application Architecture: Code splitting [Part 2]](https://hackernoon.com/react-application-architecture-code-splitting-part-2-pmb35ii)
 - [5 Frontend Interview Questions To Help You Master Asynchronous JavaScript](https://javascript.plainenglish.io/5-frontend-interview-questions-to-help-you-master-asynchronous-javascript-3339d0f89fdc?gi=c77c82c90f89)
-<!-- BLOG-POST-LIST:END -->
 
-### 📕 Latest Blog Posts (RUS)
+### 📕 Latest Articles 🇷🇺
 
-<!-- BLOG-POST-LIST:START -->
 - [How to protect your business from cyberattack](https://delovoymir.biz/kak-zaschitit-svoy-biznes-ot-kiberataki.html)
 - [Advanced approach to creating web page pagination using SWR technology, page 13-20](https://naukaip.ru/wp-content/uploads/2021/09/MK-1179.pdf)
 - [Analyze the gradual implementation of data type validation and inference using the TypeScript programming language and lambda calculus, page 35-44](https://www.europe-science.com/wp-content/uploads/2021/09/Sciences-of-Europe-No-78-2021-Vol.-1.pdf)
@@ -64,9 +61,19 @@
 - [Examples of JavaScript tasks to prepare for a front-end interview](https://tproger.ru/articles/primery-zadach-po-javascript-dlja-podgotovki-dzhuna-k-sobesedovaniju-po-frontendu/)
 - [Analyze the clean architecture of Go rest API with deps injection following solid principles, page 23-30](https://ipi1.ru/homepage/images/PDF/2021/166/PSME-9-166-.pdf)
 - [Analyzing JSON data conversion problems in statically types Golang programming language, page 5-10](https://scienceproblems.ru/images/PDF/2021/66/pn-7-66-.pdf)
-<!-- BLOG-POST-LIST:END -->
 
 ---
+
+### 💡 Recent Hackathons (Judge/Mentor)
+
+- 🇺🇸[SFHacks](https://sf-hacks.devpost.com/)
+- 🇺🇸[CUNY Hackathon](https://the-cuny-hackathon-2021.devpost.com)
+- 🇺🇸[HackTJ 8.0](https://hacktj2021.devpost.com/)
+- 🇺🇸[HackViolet](https://hackviolet.devpost.com/)
+- 🇺🇸[SwampHacks VII](https://swamphacks-vii.devpost.com/)
+- 🇺🇸[Hacklahoma](https://hacklahoma21.devpost.com/)
+- 🇨🇦[yuHacks](https://yuhacks2021.devpost.com)
+- 🇷🇺[Producton](http://producton.online)
 
 [twitter]: https://twitter.com/IliaKniazev1
 [linkedin]: https://linkedin.com/in/iliakniazev
