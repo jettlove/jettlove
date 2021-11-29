@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ilia Kniazev | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1638106396~hmac=dbce1c1d46fd8e85e4779b7ef4259090" />][linkedin]
-[<img align="left" alt="Ilia Kniazev | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1638106301~hmac=a9f2c3019f8319f7f191e6cf0387fd09" />][twitter]
-[<img align="left" alt="Ilia Kniazev | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
+[<img align="left" alt="Ilia Kniazev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ilia Kniazev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ilia Kniazev | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
