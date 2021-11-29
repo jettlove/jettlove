@@ -66,14 +66,14 @@
 
 ### 💡 Recent Hackathons (Judge/Mentor)
 
-- 🇺🇸[SFHacks](https://sf-hacks.devpost.com/)
-- 🇺🇸[CUNY Hackathon](https://the-cuny-hackathon-2021.devpost.com)
-- 🇺🇸[HackTJ 8.0](https://hacktj2021.devpost.com/)
-- 🇺🇸[HackViolet](https://hackviolet.devpost.com/)
-- 🇺🇸[SwampHacks VII](https://swamphacks-vii.devpost.com/)
-- 🇺🇸[Hacklahoma](https://hacklahoma21.devpost.com/)
-- 🇨🇦[yuHacks](https://yuhacks2021.devpost.com)
-- 🇷🇺[Producton](http://producton.online)
+- 🇺🇸 [SFHacks](https://sf-hacks.devpost.com/)
+- 🇺🇸 [CUNY Hackathon](https://the-cuny-hackathon-2021.devpost.com)
+- 🇺🇸 [HackTJ 8.0](https://hacktj2021.devpost.com/)
+- 🇺🇸 [HackViolet](https://hackviolet.devpost.com/)
+- 🇺🇸 [SwampHacks VII](https://swamphacks-vii.devpost.com/)
+- 🇺🇸 [Hacklahoma](https://hacklahoma21.devpost.com/)
+- 🇨🇦 [yuHacks](https://yuhacks2021.devpost.com)
+- 🇷🇺 [Producton](http://producton.online)
 
 [twitter]: https://twitter.com/IliaKniazev1
 [linkedin]: https://linkedin.com/in/iliakniazev
