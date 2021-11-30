@@ -1,16 +1,16 @@
-### 👋 Hi there, I'm Ilia Kniazev, Frontend Engineer with 4+ years of experience in building high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
+#### 👋 Hi there, I'm Ilia Kniazev, Frontend Engineer with 4+ years of experience in building high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliakniazev/)
 
 ## I'm a Writer, Mentor, Judge, and ... in love with Frontend 🤤
 
-👨‍💻 I'm a Software Engineer at June Homes
+👨‍💻 I'm a Software Engineer at [June Homes](https://junehomes.com)
 
-🔭 I write articles about Web-development, React.js and Next.js
+🔭 I write [articles](#articles) about Web-development, React.js and Next.js
 
-💡 I take part at hackathons as a Judge/Mentor
+💡 I take part at [hackathons](#hacks) as a Judge/Mentor
 
-🌱 Currently refreshing my knowledge in algo and ds
+🌱 Currently [refreshing](https://github.com/KNIAZEV1/algo-js-solutions) my knowledge in algo and ds
 
 ### Connect with me:
 
@@ -41,14 +41,14 @@
 
 ---
 
-### 📕 Latest Articles 🇺🇸
+### <h3 id='articles'>Latest Articles</h3>
 
+🇺🇸
 - [React Application Architecture: Components [Part 1]](https://hackernoon.com/react-application-architecture-components-part-1-1w1l340n)
 - [React Application Architecture: Code splitting [Part 2]](https://hackernoon.com/react-application-architecture-code-splitting-part-2-pmb35ii)
 - [5 Frontend Interview Questions To Help You Master Asynchronous JavaScript](https://javascript.plainenglish.io/5-frontend-interview-questions-to-help-you-master-asynchronous-javascript-3339d0f89fdc?gi=c77c82c90f89)
 
-### 📕 Latest Articles 🇷🇺
-
+🇷🇺
 - [How to protect your business from cyberattack](https://delovoymir.biz/kak-zaschitit-svoy-biznes-ot-kiberataki.html)
 - [Advanced approach to creating web page pagination using SWR technology, page 13-20](https://naukaip.ru/wp-content/uploads/2021/09/MK-1179.pdf)
 - [Analyze the gradual implementation of data type validation and inference using the TypeScript programming language and lambda calculus, page 35-44](https://www.europe-science.com/wp-content/uploads/2021/09/Sciences-of-Europe-No-78-2021-Vol.-1.pdf)
@@ -64,7 +64,7 @@
 
 ---
 
-### 💡 Recent Hackathons (Judge/Mentor)
+### <h3 id='hacks'>Recent Hackathons (Judge/Mentor)</h3>
 
 - 🇺🇸 [SFHacks](https://sf-hacks.devpost.com/)
 - 🇺🇸 [CUNY Hackathon](https://the-cuny-hackathon-2021.devpost.com)
