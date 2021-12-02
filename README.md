@@ -39,9 +39,9 @@
 <br />
 <br />
 
----
+<hr id='articles'/>
 
-### <h3 id='articles'>Latest Articles</h3>
+### <h3>Latest Articles</h3>
 
 🇺🇸
 - [React Application Architecture: Components [Part 1]](https://hackernoon.com/react-application-architecture-components-part-1-1w1l340n)
@@ -62,9 +62,9 @@
 - [Analyze the clean architecture of Go rest API with deps injection following solid principles, page 23-30](https://ipi1.ru/homepage/images/PDF/2021/166/PSME-9-166-.pdf)
 - [Analyzing JSON data conversion problems in statically types Golang programming language, page 5-10](https://scienceproblems.ru/images/PDF/2021/66/pn-7-66-.pdf)
 
----
+<hr id='hacks'/>
 
-### <h3 id='hacks'>Recent Hackathons (Judge/Mentor)</h3>
+### <h3>Recent Hackathons (Judge/Mentor)</h3>
 
 - 🇺🇸 [SFHacks](https://sf-hacks.devpost.com/)
 - 🇺🇸 [CUNY Hackathon](https://the-cuny-hackathon-2021.devpost.com)
