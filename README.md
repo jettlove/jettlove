@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Ilia Kniazev, Frontend Engineer with 4+ years of experience in building high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
+### 👋 Hi there, I'm Ilia Kniazev (He/Him), Frontend Engineer with 4+ years of experience in building high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliakniazev/)
 
@@ -20,24 +20,15 @@
 
 <br />
 
-### Languages and Tools:
+### Tech stack:
 
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Next.js" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Jest" width="26px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.7ec1931baa.svg" />
-<img align="left" alt="Cypress" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png" />
-<img align="left" alt="StoryBook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />
-<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+♦️ Client: TypeScript, JavaScript, CSS3, HTML5
 
-<br />
-<br />
+♦️ Server: Node.js
+
+♦️ Frameworks: Next.js + SWR, React.js + Redux
+
+♦️ Testing: Cypress (e2e), Jest, testing library
 
 <hr id='articles'/>
 
