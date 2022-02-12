@@ -1,10 +1,10 @@
-### 👋 Hi there, I'm Ilia Kniazev (He/Him), Frontend Software Engineer with 4+ years of experience in building high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
+### 👋 Hi there, I'm Ilia Kniazev (He/Him), Frontend Software Engineer with 4+ years of experience in building out high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliakniazev/)
 
 ## I'm a Writer, Mentor, Judge, and ... in love with Frontend 🤤
 
-👨‍💻 I'm a Software Engineer at [June Homes](https://junehomes.com)
+👨‍💻 I'm a Frontend Software Engineer at [June Homes](https://junehomes.com)
 
 🔭 I write [articles](#articles) about Web-development, React.js and Next.js
 
