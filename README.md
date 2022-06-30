@@ -10,7 +10,7 @@
 
 💡 I take part at [hackathons](#hacks) as a Judge/Mentor
 
-🌱 Currently [refreshing](https://github.com/KNIAZEV1/algo-js-solutions) my knowledge in algo and ds
+🌱 Currently [refreshing](https://github.com/KNIAZEV1/algo-js-solutions) my knowledge in algo and having fun with React Native
 
 ### Connect with me:
 
