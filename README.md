@@ -16,7 +16,6 @@
 
 [<img align="left" alt="Ilia Kniazev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ilia Kniazev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ilia Kniazev | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -26,7 +25,7 @@
 
 ♦️ Server: Node.js
 
-♦️ Frameworks: Next.js + SWR, React.js + Redux
+♦️ Frameworks: Next.js + SWR, React.js + Redux, React Native
 
 ♦️ Testing: Cypress (e2e), Jest, testing library
 
@@ -66,6 +65,5 @@
 - 🇨🇦 [yuHacks](https://yuhacks2021.devpost.com)
 - 🇷🇺 [Producton](https://producton.online/eng)
 
-[twitter]: https://twitter.com/IliaKniazev1
+[twitter]: https://twitter.com/jett_lovee
 [linkedin]: https://linkedin.com/in/iliakniazev
-[facebook]: https://www.facebook.com/iliakn/
