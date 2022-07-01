@@ -1,6 +1,6 @@
-### 👋 Hi there, I'm Ilia Kniazev (He/Him), Frontend Software Engineer with 5+ years of experience in building out high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
+### 👋 Hi there, I'm Jett, Frontend Software Engineer with 5+ years of experience in building out high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliakniazev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jettlove/)
 
 ## I'm a Writer, Mentor, Judge, and ... in love with Frontend 🤤
 
@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ilia Kniazev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ilia Kniazev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Jett Love | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jett Love | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -66,4 +66,4 @@
 - 🇷🇺 [Producton](https://producton.online/eng)
 
 [twitter]: https://twitter.com/jett_lovee
-[linkedin]: https://linkedin.com/in/iliakniazev
+[linkedin]: https://linkedin.com/in/jettlove
