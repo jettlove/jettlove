@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Jett, Frontend Software Engineer with 5+ years of experience in building out high performing, secure state of the art solutions with elevated user experience. Strong professional engineering background specialized in JavaScript and modern frameworks including Next.JS.  
+### Hey 👋 I'm Jett, a Senior Frontend Engineer based in Tampa, FL 🌴
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jettlove/)
 
-## I'm a Writer, Mentor, Judge, and ... in love with Frontend 🤤
+## I have more than 5 years of strong professional engineering background in JavaScript and modern frameworks including React and Next.js. 
 
 👨‍💻 I'm a Frontend Software Engineer at [June Homes](https://junehomes.com)
 
