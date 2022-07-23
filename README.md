@@ -10,24 +10,19 @@
 
 💡 I take part at [hackathons](#hacks) as a Judge/Mentor
 
-🌱 Currently [refreshing](https://github.com/KNIAZEV1/algo-js-solutions) my knowledge in algo and having fun with React Native
+🌱 Currently having fun with SwiftUI
 
-### Connect with me:
-
-[<img align="left" alt="Jett Love | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jett Love | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
+<hr />
 
 ### Tech stack:
 
-♦️ Client: TypeScript, JavaScript, CSS3, HTML5
+- Languages: TypeScript, JavaScript, Swift
 
-♦️ Server: Node.js
+- Web: React, Redux, Next.js, Node.js, SWR, HTML5, CSS3
 
-♦️ Frameworks: Next.js + SWR, React.js + Redux, React Native
+- Mobile: React Native, SwiftUI
 
-♦️ Testing: Cypress (e2e), Jest, testing library
+- Testing: Cypress, Jest
 
 <hr id='articles'/>
 
@@ -64,6 +59,3 @@
 - 🇺🇸 [Hacklahoma](https://hacklahoma21.devpost.com/)
 - 🇨🇦 [yuHacks](https://yuhacks2021.devpost.com)
 - 🇷🇺 [Producton](https://producton.online/eng)
-
-[twitter]: https://twitter.com/jett_lovee
-[linkedin]: https://linkedin.com/in/jettlove
