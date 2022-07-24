@@ -1,8 +1,8 @@
-### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Tampa, FL 🌴
+### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Manchester, NH 🍂
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jettlove/)
 
-## I have more than 5 years of strong professional engineering background in JavaScript and modern frameworks including React and Next.js. 
+## I have more than 5 years of strong professional engineering background in JavaScript and modern frameworks including React and Next.js. Passionate about iOS mobile development using SwiftUI. 
 
 👨‍💻 I'm a Senior Frontend Engineer at [June Homes](https://junehomes.com)
 
