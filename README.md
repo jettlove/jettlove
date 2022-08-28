@@ -59,6 +59,8 @@ I have more than <strong>5 years</strong> of strong professional engineering bac
 - [yuHacks](https://yuhacks2021.devpost.com)
 - [Producton](https://producton.online/eng)
 
+<hr />
+
 ### Contact me
 - [Personal website](https://jett.software)
 - [LinkedIn](https://www.linkedin.com/in/jettlove)
