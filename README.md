@@ -1,8 +1,7 @@
 ### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Manchester, NH 🍂
+I have more than <strong>5 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>. Passionate about <strong>iOS</strong> mobile development using <strong>SwiftUI</strong>. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jettlove/)
-
-### I have more than 5 years of strong professional engineering background in JavaScript and modern frameworks including React and Next.js. Passionate about iOS mobile development using SwiftUI. 
+<hr />
 
 👨‍💻 I'm a Senior Frontend Engineer at [June Homes](https://junehomes.com)
 
@@ -14,19 +13,19 @@
 
 <hr />
 
-### Tech stack:
+### Tech stack
 
-- Languages: TypeScript, JavaScript, Swift
+- <strong>Languages:</strong> TypeScript, JavaScript, Swift
 
-- Web: React, Redux, Next.js, Node.js, SWR, HTML5, CSS3
+- <strong>Web:</strong> React, Redux, Next.js, Node.js, SWR, HTML5, CSS3
 
-- Mobile: React Native, SwiftUI
+- <strong>Mobile:</strong> React Native, SwiftUI
 
-- Testing: Cypress, Jest
+- <strong>Testing:</strong> Cypress, Jest
 
 <hr id='articles'/>
 
-### <h3>Latest Articles</h3>
+### Latest articles
 
 🇺🇸
 - [React Application Architecture: Components [Part 1]](https://hackernoon.com/react-application-architecture-components-part-1-1w1l340n)
@@ -49,13 +48,17 @@
 
 <hr id='hacks'/>
 
-### <h3>Recent Hackathons (Judge/Mentor)</h3>
+### Recent hackathons
 
-- 🇺🇸 [SFHacks](https://sf-hacks.devpost.com/)
-- 🇺🇸 [CUNY Hackathon](https://the-cuny-hackathon-2021.devpost.com)
-- 🇺🇸 [HackTJ 8.0](https://hacktj2021.devpost.com/)
-- 🇺🇸 [HackViolet](https://hackviolet.devpost.com/)
-- 🇺🇸 [SwampHacks VII](https://swamphacks-vii.devpost.com/)
-- 🇺🇸 [Hacklahoma](https://hacklahoma21.devpost.com/)
-- 🇨🇦 [yuHacks](https://yuhacks2021.devpost.com)
-- 🇷🇺 [Producton](https://producton.online/eng)
+- [SFHacks](https://sf-hacks.devpost.com/)
+- [CUNY Hackathon](https://the-cuny-hackathon-2021.devpost.com)
+- [HackTJ 8.0](https://hacktj2021.devpost.com/)
+- [HackViolet](https://hackviolet.devpost.com/)
+- [SwampHacks VII](https://swamphacks-vii.devpost.com/)
+- [Hacklahoma](https://hacklahoma21.devpost.com/)
+- [yuHacks](https://yuhacks2021.devpost.com)
+- [Producton](https://producton.online/eng)
+
+### Contact me
+- [Personal website](https://jett.software)
+- [LinkedIn](https://www.linkedin.com/in/jettlove)
