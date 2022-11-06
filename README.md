@@ -1,4 +1,4 @@
-### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Vancouver, BC 🍂
+### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Manchester, NH 🍂
 I have more than <strong>5 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>. Passionate about <strong>iOS</strong> mobile development using <strong>SwiftUI</strong>. 
 
 <hr />
