@@ -1,5 +1,5 @@
 ### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Manchester, NH 🍂
-I have more than <strong>5 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>. Passionate about <strong>iOS</strong> mobile development using <strong>SwiftUI</strong>. 
+I have more than <strong>6 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>. Passionate about <strong>Web3</strong> applications development. 
 
 <hr />
 
@@ -9,17 +9,15 @@ I have more than <strong>5 years</strong> of strong professional engineering bac
 
 💡 I take part at [hackathons](#hacks) as a Judge/Mentor
 
-🌱 Currently having fun with SwiftUI
+🌱 Currently having fun with Solidity and Web3
 
 <hr />
 
 ### Tech stack
 
-- <strong>Languages:</strong> TypeScript, JavaScript, Swift
+- <strong>Languages:</strong> TypeScript, JavaScript, HTML5, CSS3, Solidity
 
-- <strong>Web:</strong> React, Redux, Next.js, Node.js, SWR, HTML5, CSS3
-
-- <strong>Mobile:</strong> React Native, SwiftUI
+- <strong>Libraries:</strong> React, React Query, Redux, Next.js, Node.js, Web3.js, SWR, Jotai, Zustand
 
 - <strong>Testing:</strong> Cypress, Jest
 
