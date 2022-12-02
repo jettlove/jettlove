@@ -15,11 +15,13 @@ I have more than <strong>6 years</strong> of strong professional engineering bac
 
 ### Tech stack
 
+- <strong>Frameworks:</strong> React, Next.js
+
 - <strong>Languages:</strong> TypeScript, JavaScript, HTML5, CSS3, Solidity
 
-- <strong>Libraries:</strong> React, React Query, Redux, Next.js, Node.js, Web3.js, SWR, Jotai, Zustand
+- <strong>Tools and libs:</strong> Node.js, Web3.js, Redux, React Query, SWR, Zustand, Storybook
 
-- <strong>Testing:</strong> Cypress, Jest
+- <strong>Testing:</strong> Cypress, Jest, React Testing library
 
 <hr id='articles'/>
 
