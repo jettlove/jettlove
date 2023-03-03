@@ -1,5 +1,5 @@
 ### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Manchester, NH 🍂
-I have more than <strong>6 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>. Passionate about <strong>Web3</strong> applications development. 
+I have more than <strong>6 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>, 2 years of <strong>leadership</strong> experience. Passionate about <strong>Web3</strong> applications development.
 
 <hr />
 
@@ -19,7 +19,7 @@ I have more than <strong>6 years</strong> of strong professional engineering bac
 
 - <strong>Languages:</strong> TypeScript, JavaScript, HTML5, CSS3, Solidity
 
-- <strong>Tools and libs:</strong> Node.js, Web3.js, Redux, React Query, SWR, Zustand, Storybook
+- <strong>Tools and libs:</strong> Node.js, Web3.js, Redux, React Query, SWR, Zustand, Storybook, MUI, tailwind
 
 - <strong>Testing:</strong> Cypress, Jest, React Testing library
 
