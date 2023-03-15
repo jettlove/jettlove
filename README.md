@@ -28,8 +28,8 @@ I have more than <strong>6 years</strong> of strong professional engineering bac
 ### Latest articles
 
 🇺🇸
-- [React Application Architecture: Components [Part 1]](https://hackernoon.com/react-application-architecture-components-part-1-1w1l340n)
-- [React Application Architecture: Code splitting [Part 2]](https://hackernoon.com/react-application-architecture-code-splitting-part-2-pmb35ii)
+- [React Application Architecture: Components](https://hackernoon.com/react-application-architecture-components-part-1-1w1l340n) [Part 1]
+- [React Application Architecture: Code splitting](https://hackernoon.com/react-application-architecture-code-splitting-part-2-pmb35ii) [Part 2]
 - [Exploring the Frontend Industry in 2022: A Comprehensive Analysis](https://www.europe-science.com/wp-content/uploads/2023/02/Sciences-of-Europe-No-110-2023.pdf) (page 64-77)
 - [5 Frontend Interview Questions To Help You Master Asynchronous JavaScript](https://javascript.plainenglish.io/5-frontend-interview-questions-to-help-you-master-asynchronous-javascript-3339d0f89fdc?gi=c77c82c90f89)
 
