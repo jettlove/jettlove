@@ -1,4 +1,4 @@
-### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Montreal, QC 🍂
+### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Columbus, OH
 I have more than <strong>6 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>, 2 years of <strong>leadership</strong> experience. Passionate about <strong>Web3</strong> applications development.
 
 <hr />
