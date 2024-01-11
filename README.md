@@ -1,5 +1,5 @@
-### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Columbus, OH
-I have more than <strong>6 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>, 2 years of <strong>leadership</strong> experience. Passionate about <strong>Web3</strong> applications development.
+### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Minneapolis, MN ☃️
+I have more than <strong>7 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>, 2 years of <strong>leadership</strong> experience. Expertise in healthtech, proptech, fintech and web3.
 
 <hr />
 
@@ -9,15 +9,13 @@ I have more than <strong>6 years</strong> of strong professional engineering bac
 
 💡 I take part at [hackathons](#hacks) as a Judge/Mentor
 
-🌱 Currently having fun with Solidity and Web3
-
 <hr />
 
 ### Tech stack
 
 - <strong>Frameworks:</strong> React, Next.js
 
-- <strong>Languages:</strong> TypeScript, JavaScript, HTML5, CSS3, Solidity
+- <strong>Languages:</strong> TypeScript, JavaScript, HTML5, CSS3
 
 - <strong>Tools and libs:</strong> Node.js, Web3.js, Redux, React Query, SWR, Zustand, Storybook, MUI, tailwind
 
