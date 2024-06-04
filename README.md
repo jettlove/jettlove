@@ -1,9 +1,9 @@
 ### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Columbus, OH 🏠
-I have more than <strong>7 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>, 2 years of <strong>leadership</strong> experience. Expertise in healthtech, proptech, fintech and web3.
+I have more than <strong>7 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>, 2 years of <strong>leadership</strong> experience. Expertise in fintech, healthtech, proptech, and web3. GC holder (EB1-A).
 
 <hr />
 
-👨‍💻 I'm a Senior Frontend Engineer at [June Homes](https://junehomes.com)
+👨‍💻 I'm a Senior Frontend Software Engineer at [J.P. Morgan Chase](https://www.jpmorganchase.com/)
 
 🔭 I write [articles](#articles) about Web-development, React.js and Next.js
 
@@ -17,7 +17,7 @@ I have more than <strong>7 years</strong> of strong professional engineering bac
 
 - <strong>Languages:</strong> TypeScript, JavaScript, HTML5, CSS3
 
-- <strong>Tools and libs:</strong> Node.js, Web3.js, Redux, React Query, SWR, Zustand, Storybook, MUI, tailwind
+- <strong>Tools and libs:</strong> Node.js, Web3.js, Redux, React Query, SWR, Zustand, Storybook, MUI, Tailwind CSS
 
 - <strong>Testing:</strong> Cypress, Jest, React Testing library
 
