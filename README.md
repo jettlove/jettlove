@@ -1,5 +1,5 @@
 ### Hey 👋 I'm [Jett](https://jett.software), Frontend Software Engineer based in Columbus, OH 🏠
-I have more than <strong>7 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>, 2 years of <strong>leadership</strong> experience. Expertise in fintech, healthtech, proptech, and web3. GC holder (EB1-A).
+I have more than <strong>8 years</strong> of strong professional engineering background in <strong>JavaScript</strong> and modern frameworks including <strong>React</strong> and <strong>Next.js</strong>, 2 years of <strong>leadership</strong> experience. Extensive expertise in fintech, proptech and healthtech, scaling startups (Seed to Series C), and excelling in big tech environments.
 
 <hr />
 
@@ -9,6 +9,9 @@ I have more than <strong>7 years</strong> of strong professional engineering bac
 
 💡 I take part at [hackathons](#hacks) as a Judge/Mentor
 
+💌 Feel free to grab my [resume](https://drive.google.com/file/d/1fCqCfvy95MNAchgAr5BMlHev_A0ls5K1/view?usp=sharing)
+  
+
 <hr />
 
 ### Tech stack
@@ -17,7 +20,7 @@ I have more than <strong>7 years</strong> of strong professional engineering bac
 
 - <strong>Languages:</strong> TypeScript, JavaScript, HTML5, CSS3
 
-- <strong>Tools and libs:</strong> Node.js, Web3.js, Redux, React Query, SWR, Zustand, Storybook, MUI, Tailwind CSS
+- <strong>Tools and libs:</strong> Node.js, GraphQL, tRPC, TanStack, OpenAI API, React Query, SWR, Redux, Zustand, Storybook, MUI, Tailwind CSS
 
 - <strong>Testing:</strong> Cypress, Jest, React Testing library
 
